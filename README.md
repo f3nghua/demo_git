@@ -1,2 +1,2 @@
 # demo_git
-Une dÃ©mo de git (OpenClassrooms)
+Une démo de git (OpenClassrooms) qui se passe bien
